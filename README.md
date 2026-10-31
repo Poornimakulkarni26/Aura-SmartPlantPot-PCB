@@ -61,23 +61,28 @@ Temperature Monitoring
 Humidity Monitoring
 Rechargeable Battery Management
 
+---
+ 
+## Getting Started
+ 
+### View the Design
+1. Install [KiCad](https://www.kicad.org/) (v7+ recommended)
+2. Clone this repo:
+```bash
+   git clone https://github.com/Poornimakulkarni26/pocket-arcade.git
+```
+3. Open the `.kicad_pro` file in KiCad
 
-docs/images/Aura_Pot.png
+---
 
-PCB Front Render
+## Author
+ 
+**Poornima Kulkarni**
+Embedded Systems & Industrial Automation Engineer
+ 
+- GitHub: [@Poornimakulkarni26](https://github.com/Poornimakulkarni26)
 
-docs/images/AuraPot-Front.png
-
-PCB Top Render
-
-docs/images/AuraPot-Isometric.png
-
-License
-
-MIT License
-
-Author
-
-Aura Smart Plant Pot Project
-
-Designed around the Seeed Studio XIAO SAMD21 to provide a simple, elegant, and power-efficient plant health indication system through soil moisture sensing and intelligent RGB feedback. 🌱✨
+---
+## License
+ 
+This project is open-source under the [MIT License](LICENSE).
