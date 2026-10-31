@@ -1,9 +1,9 @@
 # Aura Smart Plant Pot 🌱
 
 ![EDA](https://img.shields.io/badge/EDA-KiCad-orange)
-![MCU](https://img.shields.io/badge/MCU-XIAO-SAMD21-red)
+![MCU](https://img.shields.io/badge/XIAO-SAMD21-red)
 ![Indication](https://img.shields.io/badge/RGB-Led"-blue)
-![Battery](https://img.shields.io/badge/Non-Rechargable-battery-green)
+![Battery](https://img.shields.io/badge/Battery-green)
 
 ## Overview
 
