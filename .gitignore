@@ -1,0 +1,20 @@
+# KiCad backups and autosaves
+*-backups/
+*-bak
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+_autosave-*
+*.lck
+*-cache
+fp-info-cache
+
+# Editor history (VS Code Local History extension)
+.history/
+
+# Per-user project state (window layout, visible layers)
+*.kicad_prl
+
+# Generated outputs (remove these lines if you want to track them)
+*.zip
+Aura-pot Gerber/
