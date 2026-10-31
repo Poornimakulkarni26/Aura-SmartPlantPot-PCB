@@ -15,8 +15,8 @@ Instead of requiring a mobile app or display, Aura communicates plant health usi
 
 ## Board Preview
 
-![Top View](Aura_Pot.png)
 ![Front View](AuraPot-Front.png)
+![Top View](Aura_Pot.png)
 
 Features
 
