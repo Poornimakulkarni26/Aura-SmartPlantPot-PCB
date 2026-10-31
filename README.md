@@ -1,11 +1,11 @@
-🌱 Aura Smart Plant Pot
+# Aura Smart Plant Pot 🌱
 
 ![EDA](https://img.shields.io/badge/EDA-KiCad-orange)
 ![MCU](https://img.shields.io/badge/MCU-XIAO-SAMD21-red)
 ![Indication](https://img.shields.io/badge/RGB-Led"-blue)
 ![Battery](https://img.shields.io/badge/Non-Rechargable-battery-green)
 
-Overview
+## Overview
 
 It is a smart plant-care hardware platform designed to simplify plant maintenance through real-time visual feedback.
 
@@ -18,7 +18,7 @@ Instead of requiring a mobile app or display, Aura communicates plant health usi
 ![Colour Indication](Colour-Indication.png)
 ![Top View](Aura_Pot.png)
 
-Features
+## Features
 
 ✅ Soil Moisture Monitoring
 
@@ -36,7 +36,7 @@ Features
 
 ✅ USB-C Programming via XIAO SAMD21
 
-Color Indication Scheme
+## Color Indication Scheme
 
 Aura uses color feedback to communicate the condition of the plant.
 
@@ -50,7 +50,7 @@ Color	Condition🔴 Red	Soil Extremely Dry
 Threshold values can be customized in firmware according to plant type and soil characteristics.
 The compact layout was designed to fit within smart planter enclosures while maintaining accessibility to programming and sensor connections.
 
-Applications
+## Applications
 Indoor Plant Monitoring
 Smart Flower Pots
 Office Desk Plants
